@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "E:\\Projects\\Dump\\ClockApp\\AndroidExport\\ClockApp\\ClockApp\\build\\intermediates\\res\\merged\\debug\\xml_wallpaper.xml.flat",
+        "source": "E:\\Projects\\Dump\\ClockApp\\AndroidExport\\ClockApp\\ClockApp\\src\\main\\res\\xml\\wallpaper.xml"
+    },
+    {
+        "merged": "E:\\Projects\\Dump\\ClockApp\\AndroidExport\\ClockApp\\ClockApp\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_app_icon.png.flat",
+        "source": "E:\\Projects\\Dump\\ClockApp\\AndroidExport\\ClockApp\\ClockApp\\src\\main\\res\\mipmap-mdpi\\app_icon.png"
+    },
+    {
+        "merged": "E:\\Projects\\Dump\\ClockApp\\AndroidExport\\ClockApp\\ClockApp\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_foreground.png.flat",
+        "source": "E:\\Projects\\Dump\\ClockApp\\AndroidExport\\ClockApp\\ClockApp\\src\\main\\res\\mipmap-mdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "E:\\Projects\\Dump\\ClockApp\\AndroidExport\\ClockApp\\ClockApp\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_app_icon_round.xml.flat",
+        "source": "E:\\Projects\\Dump\\ClockApp\\AndroidExport\\ClockApp\\ClockApp\\src\\main\\res\\mipmap-anydpi-v26\\app_icon_round.xml"
+    },
+    {
+        "merged": "E:\\Projects\\Dump\\ClockApp\\AndroidExport\\ClockApp\\ClockApp\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_background.png.flat",
+        "source": "E:\\Projects\\Dump\\ClockApp\\AndroidExport\\ClockApp\\ClockApp\\src\\main\\res\\mipmap-mdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "E:\\Projects\\Dump\\ClockApp\\AndroidExport\\ClockApp\\ClockApp\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_app_icon.xml.flat",
+        "source": "E:\\Projects\\Dump\\ClockApp\\AndroidExport\\ClockApp\\ClockApp\\src\\main\\res\\mipmap-anydpi-v26\\app_icon.xml"
+    },
+    {
+        "merged": "E:\\Projects\\Dump\\ClockApp\\AndroidExport\\ClockApp\\ClockApp\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_app_banner.png.flat",
+        "source": "E:\\Projects\\Dump\\ClockApp\\AndroidExport\\ClockApp\\ClockApp\\src\\main\\res\\drawable-xhdpi\\app_banner.png"
+    }
+]
